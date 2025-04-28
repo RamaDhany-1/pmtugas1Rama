@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ComposeBasics</string>
+    <string name="sample">enter name</string>
+    <string name="shop">shopping bag</string>
+    <string name="buy">text</string>
+    <string name="cornerButton">Text Corner</string>
+    <string name="rounded">Text Rounded</string>
+    <string name="elevated">Text Elevated</string>
+    <string name="image">Image</string>
+</resources>
